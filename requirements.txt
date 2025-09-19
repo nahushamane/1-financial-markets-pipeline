@@ -1,0 +1,7 @@
+pandas
+yfinance
+pyarrow
+sqlalchemy
+psycopg2-binary
+streamlit
+prefect==2.*   # optional orchestration
